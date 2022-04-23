@@ -3,7 +3,7 @@
 cd ..
 
 # custom config
-DATA=/path/to/datasets
+DATA=/shared/timan108
 TRAINER=CoOp
 
 DATASET=$1
